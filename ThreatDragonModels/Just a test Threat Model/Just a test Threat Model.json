@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Just a test Threat Model",
+    "owner": "Paul Cooper",
+    "description": "The most simple of simple systems - containing one file only, full of nothing."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Mr Nobody Yet"
+  }
+}
